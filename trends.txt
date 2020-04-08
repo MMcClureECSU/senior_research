@@ -1,0 +1,82 @@
+++++++++++++Test 1++++++++++++++++++++++ 3/31/20
+LA  D1T1 - #AprilFoolsDay
+NYC D1T1 - #DebutWithBTS
+
+LA  D1T2 - #TransDayOfVisibility
+NYC D1T2 - My Pillow
+
+LA  D1T3 - #AprilFoolsDay
+NYC D1T3 - My Pillow
+
+LA  D1T4 - #AprilFoolsDay
+NYC D1T4 - #TransDayOfVisibility
+
++++++++++++++Test 2+++++++++++++++++++++ 4/1/20
+
+NYC D2T1 - #OUSTDUTERTENOW
+LA  D2T1 - #OustDuterteNow
+
+NYC D2T2 - #AprilFoolsDay
+LA  D2T2 - #oustdutertenow
+
+NYC D2T3 - #AprilFoolsDay
+LA  D2T3 - #clustertrump
+
+NYC D2T4 - #AprilFoolsDay
+LA  D2T4 - #CensusDay
+
++++++++++++++Test 3+++++++++++++++++++++ 4/2/20
+
+LA  D3T1 - #COVID19Pandemic
+NYC D3T1 - April Fools
+ 
+LA  D3T2 - #COVID19Pandemic
+NYC D3T2 - April Fools
+
+LA  D3T3 - #COVID19Pandemic
+NYC D3T3 - April Fools
+
+LA  D3T4 - #COVID19Pandemic
+NYC D3T4 - April Fools
+
++++++++++++++Test 4+++++++++++++++++++++ 4/3/20
+
+NYC D4T1 - #COVID19Pandemic
+LA  D4T1 - #คั่นกูEP7
+
+NYC D4T2 - #คั่นกูEP7
+LA  D4T2 - #คั่นกูEP7
+
+NYC D4T3 - #คั่นกูEP7
+LA  D4T3 - #คั่นกูEP7
+
+NYC D4T4 - Rod Wave
+LA  D4T4 - #LockdownHouseParty
+
++++++++++++++Test 5+++++++++++++++++++++ 4/4/20
+
+LA  D5T1 - #COVID2019
+NYC D5T1 - #BLACKPINK1YearOfHiatus
+
+LA  D5T2 - #WrestleMania
+NYC D5T2 - #COVID2019
+
+LA  D5T3 - #WrestleMania
+NYC D5T3 - #COVID2019
+ 
+LA  D5T4 - #WrestleMania
+NYC D5T4 - #COVID2019
+
++++++++++++++Test 6+++++++++++++++++++++ 4/5/20
+
+NYC D6T1 - #GOT7_NOTBYTHEMOON
+LA  D6T1 - #GOT7_NOTBYTHEMOON
+
+NYC D6T2 - T.I.
+LA  D6T2 - #GOT7_NOTBYTHEMOON
+
+NYC D6T3 - T.I.
+LA  D6T3 - #GOT7_NOTBYTHEMOON
+
+NYC D6T4 - T.I.
+LA  D6T4 - #GOT7_NOTBYTHEMOON  
